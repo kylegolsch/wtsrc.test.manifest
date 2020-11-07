@@ -2,6 +2,8 @@ repos:
 
   - url: git@github.com:kylegolsch/wtsrc.test.repo1.git
     dest: repo1
-    
+    branch: main
+
   - url: git@github.com:kylegolsch/wtsrc.test.repo2.git
     dest: repo2
+    branch: main
